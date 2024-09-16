@@ -1,0 +1,9 @@
+{
+	"name": "DAtaEnGine12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4bafa45-7036-425a-9cba-4510cc509fee",
+		"tenantId": "5865cff6-35cc-413b-8a8e-abc3c5dfd29e"
+	}
+}
